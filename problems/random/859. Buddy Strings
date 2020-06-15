@@ -1,0 +1,6 @@
+//https://leetcode.com/problems/buddy-strings/
+class Solution {
+    public boolean buddyStrings(String A, String B) {
+        
+    }
+}
