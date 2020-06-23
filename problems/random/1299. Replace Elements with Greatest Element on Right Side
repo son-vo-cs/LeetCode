@@ -1,0 +1,24 @@
+//https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
+class Solution {
+    public int[] replaceElements(int[] arr) {
+        int size = arr.length;
+        int[] result = new int[size];
+        if (size == 0)
+            return result;
+        if (size == 1)
+        {
+            result[0] = -1;
+            return result;
+        }
+        
+        // when the array has more than 1 element
+        int greatest = arr[size-1];
+        result[size-1] = -1;
+        for (int i = size-2; i >= 0; i--)
+        {
+            result[i] = greatest;
+            greatest = Math.max(greatest, arr[i]);
+        }
+        return result;
+    }
+}
