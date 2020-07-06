@@ -3,5 +3,5 @@
 class Solution {
     public boolean buddyStrings(String A, String B) {
         
-    }
+    } 
 }
