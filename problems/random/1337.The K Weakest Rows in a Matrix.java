@@ -9,7 +9,7 @@ class Solution {
             for (int j = 0; j < )
         }
     } 
-     
+      
     
     public int[] kWeakestRows(int[][] mat, int k) {
         
