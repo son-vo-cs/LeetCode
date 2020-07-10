@@ -18,6 +18,6 @@ class Solution {
                 // System.out.println(i + "x" + j + ":" + up + "x" + left + ": " + result); 
             }
         }
-        return result;
+        return result; 
     }
 }
