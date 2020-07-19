@@ -16,7 +16,7 @@ class Solution {
         result[size-1] = -1;
         for (int i = size-2; i >= 0; i--)
         {
-            result[i] = greatest;
+            result[i] = greatest; 
             greatest = Math.max(greatest, arr[i]);
         }
         return result;
