@@ -14,7 +14,7 @@ class Solution {
         // when the array has more than 1 element
         int greatest = arr[size-1];
         result[size-1] = -1;
-        for (int i = size-2; i >= 0; i--)
+        for (int i = size-2; i >= 0; i--) 
         {
             result[i] = greatest; 
             greatest = Math.max(greatest, arr[i]);
