@@ -30,7 +30,7 @@ class Solution {
     public int minDepth(TreeNode root) {
         if (root == null)
             return 0;
-        helperTraverse(root,1);
+        helperTraverse(root,1); 
         return depth;
     }
 } 
