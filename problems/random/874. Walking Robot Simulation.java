@@ -4,7 +4,7 @@ A robot on an infinite grid starts at point (0, 0) and faces north.  The robot c
 
 -2: turn left 90 degrees
 -1: turn right 90 degrees
-1 <= x <= 9: move forward x units
+1 <= x <= 9: move forward x units 
 Some of the grid squares are obstacles. 
 
 The i-th obstacle is at grid point (obstacles[i][0], obstacles[i][1])
