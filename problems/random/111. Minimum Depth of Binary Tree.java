@@ -31,6 +31,6 @@ class Solution {
         if (root == null)
             return 0;
         helperTraverse(root,1); 
-        return depth;
+        return depth; 
     }
 } 
