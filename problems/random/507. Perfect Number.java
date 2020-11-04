@@ -26,6 +26,6 @@ class Solution {
         return sum == num;
     }
 }
- 
+  
   
  
