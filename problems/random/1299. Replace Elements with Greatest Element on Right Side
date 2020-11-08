@@ -20,7 +20,7 @@ class Solution {
             greatest = Math.max(greatest, arr[i]);
         }
         return result;
-    }
+    } 
 }
    
    
