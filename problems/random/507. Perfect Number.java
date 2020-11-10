@@ -23,7 +23,7 @@ class Solution {
 
             }
         }
-        return sum == num;
+        return sum == num; 
     }
 }
   
