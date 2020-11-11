@@ -23,7 +23,7 @@ Explanation: No possible partition.
 lass Solution {
     public boolean hasGroupsSizeX(int[] deck) {
         int[] count = new int[10000];
-        for (int c: deck)
+        for (int c: deck) 
             count[c]++;
 
         int g = -1;
