@@ -12,7 +12,7 @@
  *         this.left = left;
  *         this.right = right;
  *     }
- * }
+ * } 
  */
 class Solution {
     int depth = Integer.MAX_VALUE; 
