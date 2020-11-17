@@ -14,7 +14,7 @@
  *     }
  * } 
  */
-class Solution {
+class Solution { 
     int depth = Integer.MAX_VALUE; 
     
     public void helperTraverse(TreeNode root, int d)
