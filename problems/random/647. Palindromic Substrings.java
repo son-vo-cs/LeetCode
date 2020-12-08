@@ -27,6 +27,6 @@ class Solution {
             left--;
             right++;
         }
-        return count;
+        return count; 
     }
 }
