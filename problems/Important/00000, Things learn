@@ -17,3 +17,7 @@
     if processing 2D array and we want to stop row or col whenever a condition is meet ->> better use 1 loop instead of 2 (r+c instead of r*c): https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/
 
 
+7: IN PLACE
+    if you want to work in place => 2 options: https://leetcode.com/problems/merge-sorted-array/
+        1) move all the important data to the end of the array
+        2) works backward
