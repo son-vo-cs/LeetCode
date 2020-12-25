@@ -28,3 +28,6 @@
 8: Binary search advance: search start and end: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/
  
  
+9: TREE
+    3 ways to traverse: https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/
+    If search in BST, we can do iterativly without using stack: (same above)
