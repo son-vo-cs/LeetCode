@@ -32,3 +32,5 @@
     3 ways to traverse: https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/
     If search in BST, we can do iterativly without using stack: (same above)
     Invert binary tree: https://leetcode.com/problems/invert-binary-tree/submissions/
+    
+    When traver to get sum of each node 0|1, use bit wise instead of string: https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
