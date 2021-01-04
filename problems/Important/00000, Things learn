@@ -21,7 +21,7 @@
     
     FIND K closet based on distance, why not compute and sort distance first, then calculate distance again: https://leetcode.com/problems/k-closest-points-to-origin/submissions/
     
-7: IN PLACE
+7: IN PLACE 
     if you want to work in place => 2 options: https://leetcode.com/problems/merge-sorted-array/
         1) move all the important data to the end of the array
         2) works backward
