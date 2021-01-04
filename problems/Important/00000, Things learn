@@ -22,6 +22,7 @@
     FIND K closet based on distance, why not compute and sort distance first, then calculate distance again: https://leetcode.com/problems/k-closest-points-to-origin/submissions/
     
 6.1: DYNAMIC PROGRAMMING:
+    usually take care of base case first (fill base case first then calculate dp)
     1) if things related to palindrom, try to use reverse or 2 pointters, 1 back 1 forward, OR try to use expand or combine: https://leetcode.com/problems/longest-palindromic-subsequence/
     
 7: IN PLACE 
