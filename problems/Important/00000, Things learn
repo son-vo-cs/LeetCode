@@ -29,7 +29,7 @@
     usually take care of base case first (fill base case first then calculate dp)
     1) if things related to palindrom, try to use reverse or 2 pointters, 1 back 1 forward, OR try to use expand or combine: https://leetcode.com/problems/longest-palindromic-subsequence/
     2) controversy: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
-   
+     
      
 7: IN PLACE 
     if you want to work in place => 2 options: https://leetcode.com/problems/merge-sorted-array/
