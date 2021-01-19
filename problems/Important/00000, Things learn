@@ -1,5 +1,5 @@
 1) for count frequency of character, we could create a int[128] and then arry[char]++, don't have to convert anything
-
+ 
 2) if we need to coung frequency of 2 arrays, why not use 1 hash map and count + and -
 
 3) if our function(a,b) only works if a >b, then first line of function return (b,a) if a <b : https://leetcode.com/problems/intersection-of-two-arrays-ii/submissions/
