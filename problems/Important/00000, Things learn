@@ -15,7 +15,7 @@
         1) think recursive first, find out what variables are important. For example, longest arithmetic subs=> current and different and previous important
         2) current and previous can be achive by looping 0..i or i-1, think about different =? could it be dp[i][different]
         3) if we cannot get dp[i][j] = dp[i][j-1] try, dp[i+1][j+1] = dp[i][j] //https://leetcode.com/problems/longest-common-subsequence/
-        
+         
   
 6: GREEDY  
     if processing 2D array and we want to stop row or col whenever a condition is meet ->> better use 1 loop instead of 2 (r+c instead of r*c): https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/
