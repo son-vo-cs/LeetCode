@@ -4,7 +4,7 @@
 
 3) if our function(a,b) only works if a >b, then first line of function return (b,a) if a <b : https://leetcode.com/problems/intersection-of-two-arrays-ii/submissions/
    
-4) BITS:   
+4) BITS:    
     flip bit = xor = a^1
     if we want to flip all bits=> flip ^ 1, then move 1 << 1, flip again
     Integer to string bit: Integer.toString(num,2)
