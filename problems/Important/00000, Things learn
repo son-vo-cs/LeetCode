@@ -9,7 +9,7 @@
     if we want to flip all bits=> flip ^ 1, then move 1 << 1, flip again
     Integer to string bit: Integer.toString(num,2)
     Integer count bit: Integer.bitCount(n) 
-      
+       
 5: DYNAMIC: if we cannot form an arrar dp[num], or dp[fromi][toj] => try think different way or not dp or greedy. And dynamic is a hard version of greedy
     GUIDE:
         1) think recursive first, find out what variables are important. For example, longest arithmetic subs=> current and different and previous important
