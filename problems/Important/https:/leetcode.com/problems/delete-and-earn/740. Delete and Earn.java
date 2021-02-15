@@ -13,7 +13,7 @@ class Solution {
         for (int i = 2; i <= max; i++)
         {
             dp[i] = Math.max(dp[i-2] + mem[i]*i, dp[i-1]);
-            
+             
         }
         return dp[max];
     }
