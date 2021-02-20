@@ -3,7 +3,7 @@
 2) if we need to coung frequency of 2 arrays, why not use 1 hash map and count + and -
 
 3) if our  function(a,b) only works if a >b, then first line of function return (b,a) if a <b : https://leetcode.com/problems/intersection-of-two-arrays-ii/submissions/
-      
+       
 4) BITS:        
     flip bit = xor = a^1
     if we want to flip all bits=> flip ^ 1, then move 1 << 1, flip again
